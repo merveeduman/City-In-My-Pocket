@@ -2,14 +2,14 @@
 With our new application covering Kayseri's Melikgazi, Kocasinan and Talas districts, leaving the city's most popular cafes, restaurants, hospitals, parks and schools is now much easier and more enjoyable! Thanks to our user-friendly interface, you can briefly find the places you are looking for based on categories. It includes detailed venue information, user instructions and navigation support and helps you choose suitable locations. This application will meet all your needs, from child-friendly cafes to the nearest solution for urgent health needs, and is ideal for anyone who wants to experience the beauty of Kayseri. Feel all the opportunities the city has to offer at your fingertips by downloading our application now!
 
 
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#1.sprintsürecivekararları">1. Sprint Süreci Ve Kararları</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#tahminipuan">Sprint İçinde Tamamlanması Tahmin Edilen Puan</a></li>
+        <li><a href="#puantamamlama">Puan Tamamlama Mantığı</a></li>
       </ul>
     </li>
     <li>
@@ -28,58 +28,20 @@ With our new application covering Kayseri's Melikgazi, Kocasinan and Talas distr
   </ol>
 </details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## About The Project
 
-Proje yönetimi ve görev dağılımının ayarlanması için Trello kullanılmasına karar verilmiştir.
-
+- Proje yönetimi ve görev dağılımının ayarlanması için Trello kullanılmasına karar verilmiştir.
 - UI tasarımı için yönlendirici internet kaynaklarından bilgiler sağlanmıştır.
 - Veritabanı yönetimi için Firebase kullanılmasına karar verilmiştir.
 
 ### Built With
+
+## 1. Sprint Süreci Ve Kararları
+
+### Sprint İçinde Tamamlanması Tahmin Edilen Puan
+
+10
+
+### Puan Tamamlama Mantığı
+
+Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir. Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
