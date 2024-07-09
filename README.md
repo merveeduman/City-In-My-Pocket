@@ -18,9 +18,12 @@ Veritabanı yönetimi için Firebase kullanılmasına karar verilmiştir.
      </details>
 </details>
 <details>
-   <summary>Günlük Scrum</summary>
-  <ol> Whatsapp üzerinden görüşmeler sağlanmıştır.Genel adında ana bir grup oluşturulmuştur.
-![image].(https://github.com/merveeduman/oua_bootcamp/assets/139700200/5ff7e73e-0371-4923-ae8e-e2b9c29e0620)
+  <summary>Günlük Scrum</summary>
+<ol>
+  <li>Whatsapp üzerinden görüşmeler sağlanmıştır. Genel adında ana bir grup oluşturulmuştur.</li>
+</ol>
+![image](https://github.com/merveeduman/oua_bootcamp/assets/139700200/5ff7e73e-0371-4923-ae8e-e2b9c29e0620)
+
 
 ## • TOPLANTILAR VE KARAR VERME AŞAMALARI
 ### 26.06.2024 (İlk çevrimiçi toplantı)
