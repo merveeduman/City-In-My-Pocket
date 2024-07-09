@@ -6,10 +6,10 @@ With our new application covering Kayseri's Melikgazi, Kocasinan and Talas distr
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#1.sprintsürecivekararları">1. Sprint Süreci Ve Kararları</a>
+      <a href="#1-sprint-süreci-ve-kararları">1. Sprint Süreci Ve Kararları</a>
       <ul>
-        <li><a href="#tahminipuan">Sprint İçinde Tamamlanması Tahmin Edilen Puan</a></li>
-        <li><a href="#puantamamlama">Puan Tamamlama Mantığı</a></li>
+        <li><a href="#sprint-icinde-tamamlanmasi-tahmin-edilen-puan">Sprint İçinde Tamamlanması Tahmin Edilen Puan</a></li>
+        <li><a href="#puan-tamamlama-mantigi">Puan Tamamlama Mantığı</a></li>
       </ul>
     </li>
     <li>
@@ -38,10 +38,10 @@ With our new application covering Kayseri's Melikgazi, Kocasinan and Talas distr
 
 ## 1. Sprint Süreci Ve Kararları
 
-### Sprint İçinde Tamamlanması Tahmin Edilen Puan
+### <a name="sprint-icinde-tamamlanmasi-tahmin-edilen-puan"></a>Sprint İçinde Tamamlanması Tahmin Edilen Puan
 
 10
 
-### Puan Tamamlama Mantığı
+### <a name="puan-tamamlama-mantigi"></a>Puan Tamamlama Mantığı
 
 Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir. Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
